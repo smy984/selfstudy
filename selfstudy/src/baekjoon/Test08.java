@@ -10,7 +10,7 @@ public class Test08 {
 
 		System.out.print("(0 < A, B < 10) ");
 		Scanner sc = new Scanner(System.in);
-		int a, b;
+		double a, b;
 		a = sc.nextInt();
 		b = sc.nextInt();
 		sc.close();
