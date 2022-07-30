@@ -13,6 +13,7 @@ public class Test06 {
 		int a, b;
 		a = sc.nextInt();
 		b = sc.nextInt();
+		sc.close();
 		System.out.println(a - b);
 	}
 }
