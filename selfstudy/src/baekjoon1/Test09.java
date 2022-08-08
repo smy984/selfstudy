@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon1;
 import java.util.Scanner;
 public class Test09 {
 	public static void main(String[] args) {
